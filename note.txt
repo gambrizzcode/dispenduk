@@ -1,0 +1,4 @@
+print halaman user, kkbaru, kia, list, p_online
+dashboard admin // masih kosongan
+
+jika image administrasi sama
